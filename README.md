@@ -2,7 +2,7 @@
 
 A production-grade computer vision system for detecting, tracking, and analyzing volleyball players and balls in broadcast footage. This system combines YOLOv8 object detection, ByteTrack multi-object tracking, and court homography for tactical visualization.
 
-![Volleyball Detection Demo](https://blog.roboflow.com/content/images/2024/08/high-velocity.png)
+![Volleyball Detection Demo](https://github.com/avinash064/volleyball-hawkeye/blob/main/input_videos/Screenshot%202025-12-28%20221459.png)
 
 ## 🎯 Features
 
