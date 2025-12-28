@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+output_videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+!input_videos/Video1.mp4
+
+# Model weights (large files)
+*.pt
+*.pth
+*.onnx
+*.weights
+best*.pt
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.cache
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+datasets/
+data/
+*.zip
+*.tar.gz
+
+# Annotations
+roboflow.zip
+safety-vests*/
