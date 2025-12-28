@@ -59,3 +59,13 @@ data/
 # Annotations
 roboflow.zip
 safety-vests*/
+
+# Unrelated car parts project files
+create_superclass_annotations.py
+create_view_based_crops.py
+crop_using_superclass.py
+organize_car_crops.py
+puzzle_based_cropping.py
+organize_classes.py
+visualize_via_annotations.py
+extract_class_names.py
